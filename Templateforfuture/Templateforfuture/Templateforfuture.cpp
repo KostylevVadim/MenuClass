@@ -214,7 +214,4 @@ public:
 int main()
 {
     Menu <int> X;
-    X.GrandMenu();
-    X.GrandMenu();
-    X.GrandMenu();
 }
